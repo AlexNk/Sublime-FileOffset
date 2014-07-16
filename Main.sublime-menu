@@ -1,0 +1,9 @@
+[
+{
+    "id": "selection",
+    "children":
+    [
+        { "command": "file_offset" }
+    ]
+}
+] 
